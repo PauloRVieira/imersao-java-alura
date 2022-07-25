@@ -1,0 +1,10 @@
+{
+    "java.jdt.ls.java.home": "D:\\jdk-18.0.2\\",
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
